@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -32,10 +32,6 @@
         .button:hover {
             background-color: #ff3385;
         }
-        #earth-gif {
-            width: 100px;
-            margin-top: 30px;
-        }
     </style>
 </head>
 <body>
@@ -53,7 +49,6 @@
 
     <div id="slide3" class="slide">
         <h2>You are my world Jii, and please accept my proposal Sushmita Jii.</h2>
-        <img id="earth-gif" src="https://media.giphy.com/media/5go4uVbdF2oEo/giphy.gif" alt="Earth revolving gif">
         <button class="button" id="accept-btn">Accept Proposal</button>
     </div>
 
@@ -93,3 +88,4 @@
 
 </body>
 </html>
+>
